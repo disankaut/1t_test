@@ -1,3 +1,5 @@
 first
 update first from master
 Это строка из основной ветки
+update first
+Строка из новой ветки
